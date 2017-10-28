@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWDomainClasses", "AWDomainClasses\AWDomainClasses.csproj", "{984F9D97-975F-4B76-8E27-FA4BD2480068}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWDataLayer", "AWDataLayer\AWDataLayer.csproj", "{C665384B-D4C3-4FCD-81C8-639B78BC5DB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWConsole", "AWConsole\AWConsole.csproj", "{B8CBDD96-EFD9-419A-B1E6-9B552339AAE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{984F9D97-975F-4B76-8E27-FA4BD2480068}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{984F9D97-975F-4B76-8E27-FA4BD2480068}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{984F9D97-975F-4B76-8E27-FA4BD2480068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C665384B-D4C3-4FCD-81C8-639B78BC5DB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C665384B-D4C3-4FCD-81C8-639B78BC5DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C665384B-D4C3-4FCD-81C8-639B78BC5DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C665384B-D4C3-4FCD-81C8-639B78BC5DB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8CBDD96-EFD9-419A-B1E6-9B552339AAE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8CBDD96-EFD9-419A-B1E6-9B552339AAE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8CBDD96-EFD9-419A-B1E6-9B552339AAE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8CBDD96-EFD9-419A-B1E6-9B552339AAE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
